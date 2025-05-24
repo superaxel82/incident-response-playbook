@@ -1,0 +1,3 @@
+Asset Name,URL,Hostname,IP Address,Operating System,VM Path
+OWASP Juice Shop,http://localhost:3000,juice-shop.local,127.0.0.1,Ubuntu 20.04,/home/youruser/juice-shop
+
